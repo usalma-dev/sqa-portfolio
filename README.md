@@ -40,11 +40,6 @@ This repository contains my QA practice work and learning progress.
 ## Web Testing Project
 Manual web testing project covering login, product browsing, cart, and checkout flows on a demo e-commerce application.
 
-## API Testing Notes
-Beginner API testing learning using Postman.
-
-## Mobile Testing Notes
-Android testing setup notes and mobile testing observations.
 
 ---
 
