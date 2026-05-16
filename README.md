@@ -1,1 +1,55 @@
-# sqa-portfolio
+# Software Quality Assurance Portfolio
+
+Hello! I am an aspiring Quality Assurance (SQA) Engineer currently building practical skills in software testing and quality assurance.
+
+This repository contains my QA practice work and learning progress.
+
+---
+
+# Skills
+
+## Testing Knowledge
+- Manual Testing
+- Functional Testing
+- UI Testing
+- Smoke Testing
+- Regression Testing
+
+## QA Concepts
+- QA vs QC
+- Defect Lifecycle
+- Severity & Priority
+- Test Documentation
+- Testing Strategies
+
+## Tools
+- Jira
+- Chrome DevTools
+- Android Studio
+- Virtual Machines (VirtualBox)
+
+## Currently Learning
+- API Testing with Postman
+- SQL for QA
+- Mobile Testing
+
+---
+
+# Projects
+
+## Web Testing Project
+Manual web testing project covering login, product browsing, cart, and checkout flows on a demo e-commerce application.
+
+## API Testing Notes
+Beginner API testing learning using Postman.
+
+## Mobile Testing Notes
+Android testing setup notes and mobile testing observations.
+
+---
+
+# About Me
+
+I started learning Quality Assurance through the a1qa training program where I gained foundational knowledge of functional testing, Jira workflows, defect management, testing documentation, and web testing tools.
+
+I am passionate about software quality and continuously improving my QA skills through hands-on practice and self-learning.
