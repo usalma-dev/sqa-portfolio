@@ -27,7 +27,7 @@
 4. Click the **Login** button
 
 **Expected Result:** User is redirected to the Products page (`/inventory.html`). Page title shows "Products".
-**Status:** [ ]
+
 
 ---
 
@@ -47,7 +47,7 @@
 4. Click **Login**
 
 **Expected Result:** Login is rejected. Error message shown: *"Epic sadface: Sorry, this user has been locked out."*
-**Status:** [ ]
+
 
 ---
 
@@ -67,7 +67,7 @@
 4. Click **Login**
 
 **Expected Result:** Login fails. Error message shown: *"Epic sadface: Username and password do not match any user in this service."*
-**Status:** [ ]
+
 
 ---
 
@@ -86,7 +86,7 @@
 3. Click **Login**
 
 **Expected Result:** Error message shown: *"Epic sadface: Username is required."*
-**Status:** [ ]
+
 
 ---
 
@@ -105,7 +105,7 @@
 3. Click **Logout**
 
 **Expected Result:** User is redirected back to the login page. Session is ended.
-**Status:** [ ]
+
 
 ---
 
@@ -125,7 +125,7 @@
 2. Observe the Products page
 
 **Expected Result:** 6 products are displayed. Each has a name, description, price, product image, and an "Add to cart" button.
-**Status:** [ ]
+
 
 ---
 
@@ -144,7 +144,7 @@
 3. Select **Price (low to high)**
 
 **Expected Result:** Products are reordered so the cheapest item appears first and the most expensive last.
-**Status:** [ ]
+
 
 ---
 
@@ -164,7 +164,7 @@
 2. Click **Add to cart** on any product
 
 **Expected Result:** The cart icon in the top right shows a badge with the number **1**.
-**Status:** [ ]
+
 
 ---
 
@@ -183,7 +183,7 @@
 3. Click **Remove** on the same product
 
 **Expected Result:** The cart badge disappears (count returns to 0). The button returns to "Add to cart".
-**Status:** [ ]
+
 
 ---
 
@@ -203,7 +203,7 @@
 4. Click the back button or the cart icon
 
 **Expected Result:** Cart still shows 2 items. Nothing was lost during navigation.
-**Status:** [ ]
+
 
 ---
 
@@ -227,7 +227,7 @@
 6. Click **Finish**
 
 **Expected Result:** A confirmation page appears with the message *"Thank you for your order!"*
-**Status:** [ ]
+
 
 ---
 
@@ -249,4 +249,4 @@
 6. Click **Continue**
 
 **Expected Result:** Error message shown: *"Error: First Name is required"*
-**Status:** [ ]
+
