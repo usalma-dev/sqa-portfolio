@@ -41,10 +41,3 @@ This repository contains my QA practice work and learning progress.
 Manual web testing project covering login, product browsing, cart, and checkout flows on a demo e-commerce application.
 
 
----
-
-# About Me
-
-I started learning Quality Assurance through the a1qa training program where I gained foundational knowledge of functional testing, Jira workflows, defect management, testing documentation, and web testing tools.
-
-I am passionate about software quality and continuously improving my QA skills through hands-on practice and self-learning.
